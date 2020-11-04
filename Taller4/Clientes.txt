@@ -1,0 +1,9 @@
+9.999.999-9,Javier,Pizarro,Serena
+18.151.333-4,Andres,Leon,Antofagasta
+20.649.431-0,Dua,Lipa,Temuco
+21.349.555-5,Felipe,Pinilla,Copiapo
+19.445.111-2,Alexis,Sanchez,Coquimbo
+1,ae,de,Coquimbo
+4,Alexi,Diaz,Coquimbo
+3,juan,perez,Temuco
+20.648.431-0,juan,volado,Temuco
